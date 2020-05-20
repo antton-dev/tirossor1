@@ -1,8 +1,7 @@
 """
-tirage au sort.py  Version 2
-l'utilisateur rentre plusieur noms, chiffres et le
-programme tire au sort une donnée
-Antton CHEVRIER, 2019-03-06
+tirage au sort.py  Version 1
+l'utilisateur rentre plusieurs noms, chiffres et le
+programme tire au sort une donnee
 """
 
 import random
@@ -13,7 +12,7 @@ invitation = "entrez un nom : "
 tirage = " "
 ajouter = "oui"
 i = ""
-intro = "Bienvenue dans TIROSSOR ! TIROSSOR choisit au hasard un nom que vous avez entré !"
+intro = "Bienvenue dans TIROSSOR ! TIROSSOR choisit au hasard un nom que vous avez entrï¿½ !"
 
 #fonction principale main
 print(intro)
