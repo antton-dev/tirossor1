@@ -47,7 +47,6 @@ Oui ! Bien sûr ! Toute aide est la bienvenue. Si vous constatez une erreur ou r
 
 - email : antton.chevrier@gmail.com
 
-  
 
 ## 6. Licence
 
@@ -63,13 +62,13 @@ Vous avez le droit de :
 
 - En faire une utilisation personnelle
 
-  
+-------  
 
 A condition de :
 
-- Indiquer le copyright et la license, diponible ci dessous.
+- Indiquer le copyright et la license, disponible ci dessous.
 
-  
+-----------
 
 Avec les limitations suivantes :
 
