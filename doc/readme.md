@@ -24,3 +24,5 @@ Oui ! Bien sûr ! Toute aide est la bienvenue. Si vous constatez une erreur ou r
 - email : antton.chevrier@gmail.com
 
 ## 6. Captures
+![capture1](capture1.png)
+![capture2](capture2.png)
