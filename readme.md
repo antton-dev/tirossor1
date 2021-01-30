@@ -1,3 +1,6 @@
+** ! Une nouvelle version de Tirossor est disponible ici ! 
+Allez jeter un coup d'oeil ici : https://github.com/antton-dev/tirossor2 **
+
 
 # DOCUMENTATION DE TIROSSOR
 
